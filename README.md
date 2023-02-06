@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm basar ozan tekce</h1>
 <h3 align="center">A passionate game developer from Turkey</h3>
 
-
--  **https://codersclub.co/dev/ozantekce**
 - 🌱 I’m currently learning **Unity.**
 - 📫 How to reach me **ozantekce@gmail.com**
 - 🎮 You can try my games **https://ozantekce.itch.io/** | **https://play.google.com/store/apps/dev?id=8212290806118485621**
+
+<a href="https://profile.codersrank.io/user/ozantekce" target="blank"><img align="center" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=ozantekce" alt="Coders Rank" width="400" /></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
