@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm basar ozan tekce</h1>
-<h3 align="center">A passionate game developer from Turkey</h3>
 
 - 🌱 I’m currently learning **Unity.**
 - 📫 How to reach me **ozantekce@gmail.com**
