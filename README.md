@@ -3,9 +3,6 @@
 - 🌱 I’m currently learning **Unity.**
 - 📫 How to reach me **ozantekce@gmail.com**
 - 🎮 You can try my games **https://ozantekce.itch.io/** | **https://play.google.com/store/apps/dev?id=8212290806118485621**
-
-<p align="center">
-<a href="https://profile.codersrank.io/user/ozantekce" target="blank"><img align="center" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=ozantekce&show-avatar=false" alt="Coders Rank" width="500"/></a>
     
   <a href="https://www.leetcode.com/ozantekce" target="_blank">
     <img align="center" src="https://leetcard.jacoblin.cool/ozantekce?theme=light&font=ABeeZee"/> 
